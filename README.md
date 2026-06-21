@@ -1,4 +1,4 @@
-# Bus Booking App 
+# Bus tickit Booking App 
 
 A Bus Seat Reservation System
 
